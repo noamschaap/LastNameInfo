@@ -1,0 +1,8 @@
+/__init__.pyc
+/test_builder_registry.pyc
+/test_docs.pyc
+/test_html5lib.pyc
+/test_htmlparser.pyc
+/test_lxml.pyc
+/test_soup.pyc
+/test_tree.pyc
